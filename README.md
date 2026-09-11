@@ -2,34 +2,34 @@
 
 
 
-# [Project Name] 🎯
+# [The reject bin] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [xxx]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [liya] - [KAHM unity womens college]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[a simple waste sorting game where users decide whether different objects should be put into a waste basket.the player earns or loses points depebding on their choice is correct]
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem (placing the waste)
+[people often throw the wrong things into a waste basket without thinking.our project turns this simple everday situation into a fun challenge where the user has to decide what belong in the basket]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[we created a useless but entertaining virtual waste basket game.the plkayer is shown different objects and must choose whether to put them in the basket or leave them out .]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML]
+- [CSS]
+- [Javascript]
+- [responsive web design]
 
 For Hardware:
 - [List main components]
