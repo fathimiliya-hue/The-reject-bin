@@ -2,7 +2,7 @@
 
 
 
-# [The reject bin] 🎯
+# The reject bin 🎯
 
 
 ## Basic Details
@@ -11,8 +11,8 @@
 
 ### Team Members
 - Team Lead: [liya] - [KAHM unity womens college]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
+
 
 ### Project Description
 [a simple waste sorting game where users decide whether different objects should be put into a waste basket.the player earns or loses points depebding on their choice is correct]
@@ -21,7 +21,7 @@
 [people often throw the wrong things into a waste basket without thinking.our project turns this simple everday situation into a fun challenge where the user has to decide what belong in the basket]
 
 ### The Solution (that nobody asked for)
-[we created a useless but entertaining virtual waste basket game.the plkayer is shown different objects and must choose whether to put them in the basket or leave them out .]
+[I created a useless but entertaining virtual waste basket game.the plkayer is shown different objects and must choose whether to put them in the basket or leave them out .]
 
 ## Technical Details
 ### Technologies/Components Used
@@ -46,47 +46,48 @@ For Software:
 # Screenshots (Add at least 3)
 <img src="/image.png" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+Start → Show Object → User Makes Choice → Check Answer → Update Aura → Next Object → Final Score
+The workflow shows how the player selects an object, decides whether to put it in the waste basket, and receives positive or negative Aura points based on the decision. The game continues with different objects until the final Aura score is displayed.
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+
+
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components]
+HTML – creates the webpage structure.
+CSS – designs the waste basket, buttons, cards, and overall appearance.
+JavaScript – handles the game logic, object selection, Aura points, and results.
+GitHub – used to store and manage the project code.
+Web browser – used to run and test the project
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Build]
+Designed the user interface for the waste-sorting game.
+Added different objects such as banana peel, plastic bottle, paper, can, phone, book, and other items.
+Added “Put in Basket” and “Don’t Put” options.
+Created the Aura scoring system.
+Added positive Aura points for correct choices and negative Aura points for incorrect choices.
+Added funny messages and basket reactions.
+Tested the game to make sure the buttons, scoring, and results work correctly.
+Finalized the design and tested the project in a web browser.
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final]
+https://drive.google.com/file/d/1wmWp7diJLPzA9YMWcU6NwjHimMyqFpw9/view?usp=sharing
+> The final build is a simple and interactive waste-sorting game called “The Useless Waste Basket.” Users are shown different objects and must decide whether to put them in the basket or leave them out. Correct decisions increase the player’s Aura points, while incorrect decisions decrease them. The game includes a simple and colorful interface, interactive buttons, Aura score tracking, and funny messages to make the experience entertaining.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1Sx3v05cYVrKNSQJIfQl3bmFn-1USqd5X/view?usp=sharing
+* The demo shows the player selecting different objects, choosing whether to put them in the basket, and gaining or losing Aura points based on their decisions.*
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Liya: Idea development, UI design, coding, Aura scoring system, testing, and project documentation.
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
